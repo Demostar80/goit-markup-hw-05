@@ -648,7 +648,7 @@ body {
   color: #ffffff;
   font-size: 12px;
   font-weight: 400;
-  line-height: 1.5;
+  line-height: 2;
   letter-spacing: 0.04em;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
   padding: 8px 16px;
@@ -746,6 +746,7 @@ body {
   border-radius: 50%;
   border: 1px solid rgba(0, 0, 0, 0.1);
   line-height: 0;
+  border: none;
 
   /*transition-property: background-color, border-color;
   transition-duration: 250ms;
